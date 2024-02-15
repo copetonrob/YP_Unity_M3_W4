@@ -4,7 +4,7 @@
 
 Отлично! Пора заселять наш новый мир мобами. Это могут быть твои будущие враги. Или просто обитатели этого нового мира. Используй фантазию на максимум!
 
-<img src="https://github.com/copetonrob/YP_Unity_M3_W4/blob/main/img/demo.gif" width="800"/>
+<img src="https://github.com/copetonrob/YP_Unity_M3_W4/blob/main/img/demo2.gif" width="800"/>
 
 ## Требования
 
