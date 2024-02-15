@@ -6,6 +6,8 @@
 
 <img src="https://github.com/copetonrob/YP_Unity_M3_W4/blob/main/img/img1.png" width="800"/>
 
+Если не получается придумать, можешь взять пак ассетов с этими полями и горами. [Пак](https://github.com/copetonrob/YP_Unity_M3_W4/blob/main/castle_pack.unitypackage)
+
 ## Требования
 
 1. Создай пустую сцену
